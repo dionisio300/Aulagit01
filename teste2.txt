@@ -1,0 +1,4 @@
+echo "#readme.md" >> readme.md
+git init -> inicializa o repositório local
+git add . ou 'nome do arquivo' -> adiciona os arquivos para serem versionados pelo git
+git commit -m "Mensagem com as mudanças implementadas"
